@@ -1,0 +1,52 @@
+h1{
+ font-family: 'Lora', sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+}
+::placeholder{ font-size: 22px;}
+p{
+ font-family: 'Lora', sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+}
+h5{
+  font-size: 22px;
+   font-family: 'Lora', sans-serif;
+   line-height: 28.16px;
+   font-weight: 500;
+}
+.hold{
+ font-size:16px;
+  font-family: 'Lora', sans-serif;
+  line-height: 20.48px;
+  font-weight: 500;
+}
+h3{
+ font-family: 'Lora', sans-serif;
+  font-weight: 500;
+  line-height: 33.28px;
+  font-size: 26px;
+}
+h4{
+  font-family: 'Lora', sans-serif;
+   font-weight: 500;
+   line-height: 30.72px;
+   font-size: 24px;
+}
+h2{
+  font-family: 'Lora', sans-serif;
+   font-weight: 700;
+   line-height: 30.72px;
+   font-size: 18px;
+}
+button {
+ font-family: 'Lora', sans-serif;
+ font-weight: 500;
+ line-height: 33.28px;
+ font-size: 26px;
+}
+.save{
+  font-family: 'Lora', sans-serif;
+  font-size: 24px;
+  color: #000000B5;;
+}

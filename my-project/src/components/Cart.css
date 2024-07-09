@@ -1,0 +1,40 @@
+.fl{
+ font-family: 'Lora', sans-serif;
+ font-size: 18px;
+ font-weight: 700;
+} 
+h2{
+ font-family: 'Lora', sans-serif;
+ font-size: 32px;
+ font-weight: 700;
+}
+.apply{
+ color: #000000;
+ font-family: 'Lora', sans-serif;
+ font-size: 24px;
+ font-weight: 700;
+}
+p{
+ font-size: 16px;
+ font-weight: 500;
+ font-family: 'Lora', sans-serif;
+}
+h1{
+ font-size: 20px;
+ font-weight: 700;
+ font-family: 'Lora', sans-serif;
+}
+@media (max-width: 768px) {
+ .fl{
+  font-size: 12px;
+ }
+h1{
+ font-size: 12px;
+ }
+ p{
+  font-size: 12px;
+ }
+ button{
+  font-size: 12px;
+ }
+}

@@ -1,0 +1,26 @@
+input{
+ background-color: transparent;
+ outline: none;
+ color: white;
+}
+::placeholder{
+ color: white;
+}
+.hold {
+ font-size: 16px;
+ font-family: 'Lora', sans-serif;
+ line-height: 20.48px;
+ font-weight: 500;
+}
+h1{
+  font-size: 28px;
+   font-family: 'Lora', sans-serif;
+   line-height: 20.48px;
+   font-weight: 700;
+   color: #000000B5;
+}
+h2{
+  font-size: 16px;
+   font-family: 'Lora', sans-serif;
+   font-weight: 500;
+}
